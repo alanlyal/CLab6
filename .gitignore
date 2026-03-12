@@ -1,0 +1,41 @@
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal Engine generated files
+*.opensdf
+*.sdf
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode (optional)
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+
+# Ignore packaged builds
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
